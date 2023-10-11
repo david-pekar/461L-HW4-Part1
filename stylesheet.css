@@ -61,7 +61,7 @@ a:hover {
     color: brown;
 }
 
-@media (max-width: 800px){
+@media (max-width: 805px){
     .hero{
         flex-direction: column;
     }
